@@ -45,7 +45,7 @@ An exploratory data analysis of 3,000 movies designed to provide strategic produ
 ---
 
 ## 🌎 Assignment 03: Global Terrorism Analysis (1970-2017)
-**Folder:** `/Terrorism_Project`
+**Folder:** `/Assignment-03`
 
 An in-depth study of the **United Nations Global Terrorism Analysis (UNGTA)** dataset containing over 180,000 recorded incidents to uncover global security trends.
 
